@@ -12,7 +12,7 @@ collections:
   pages:
     output: true
     permalink: /:path
-description: "\u52A0\u901F\u5B75\u5316\u65B0\u5275 Startup Incubator"
+description: "\u52A0\u901F\u5B75\u5316\u65B0\u5275 Startup "
 exam_submit_form_url: https://forms.gle/LW9UAo2YWpUrgFLq6
 exclude:
 - _main/

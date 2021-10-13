@@ -9,7 +9,7 @@ description: For All Remote Teams
 
 ## All Remote Team, Incubate New Ideas
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 <br>
 
@@ -48,7 +48,7 @@ Kami selalu menerima umpan balik.
 <a name="id"></a>
 ## All Remote Team, Incubate New Ideas
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 <br>
 

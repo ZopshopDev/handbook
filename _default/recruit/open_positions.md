@@ -7,7 +7,7 @@ description: We are always hiring for talent.
 
 ## We are always hiring.
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 We are passionate entrepreneurs who want to build our culture around our earliest employees.
 

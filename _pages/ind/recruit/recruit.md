@@ -7,11 +7,11 @@ description: Looking to hire the best talent around the world.
 
 
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 ## If you want to create technology that solves problems.
 
-Avance Venture Lab is searching for a few **brilliant minds** to join our hunt for impact through technology.
+ZopShop is searching for a few **brilliant minds** to join our hunt for impact through technology.
 
 ## If you are hungry for your footprint in the digital era.
 

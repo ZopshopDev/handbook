@@ -11,7 +11,7 @@ Kami menginkubasi, mempercepat, dan menerapkan ide-ide yang dibuat oleh tim kami
 
 ## Jika Anda ingin menciptakan teknologi yang memecahkan masalah.
 
-Avance Venture Lab sedang mencari beberapa **pemikir brilian** untuk bergabung dalam perburuan dampak melalui teknologi.
+ZopShop sedang mencari beberapa **pemikir brilian** untuk bergabung dalam perburuan dampak melalui teknologi.
 
 ## Jika Anda lapar akan jejak Anda di era digital.
 

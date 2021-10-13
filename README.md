@@ -2,9 +2,9 @@
 
 # About Us
 
-## A Different Breed of Startup Incubator
+## A Different Breed of Startup
 
-We incubate, accelerate, and implement ideas that our team create internally.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed.
 
 ## Work From Home
 
