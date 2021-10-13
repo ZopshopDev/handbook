@@ -144,7 +144,7 @@ Set layout language file `language.yml` in \_data folder, if there is no setting
     my:
         VIEW_JOB_OPENINGS: View Jobs
         SELECT_LANGUAGE: Language
-        ALL_REMOTE_STARTUP_IN: All Remote Startup Incubator
+        ALL_REMOTE_STARTUP_IN: All Remote Team
         FOLLOW_US: Follow Us
         CONTACT_US: Contact Us
         TITLE_SARI: Sari Handbook
