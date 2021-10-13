@@ -2,7 +2,7 @@
 layout: default
 title: ZopShop Handbook
 lang: en
-description: All Remote Team - Amazing
+description: All Remote Team - Awesome
 ---
 
 ## All Remote Team
