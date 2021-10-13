@@ -2,7 +2,7 @@
 layout: default
 title: ZopShop Handbook
 lang: en
-description: All Remote Team - Global
+description: All Remote Team
 ---
 
 ## All Remote Team
