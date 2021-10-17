@@ -73,7 +73,7 @@ locales:
     name: "\u7E41\u9AD4"
 plugins:
 - jemoji
-product_name: Zopshop
+product_name: ZopShop
 sass:
   sass_dir: _sass
 splash_btn_text: "\u67E5\u770B\u8077\u7F3A"

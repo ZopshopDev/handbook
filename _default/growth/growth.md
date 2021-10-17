@@ -25,7 +25,7 @@ description: How we grow users and revenue.
 
 ### Online Resources
 
-* [Personal Finance Management App Strategies](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"} 
+* [Personal Finance Management App Strategies](https://www.cbinsights.com/research/personal-finance-apps-strategies/){:target="_blank"}
 
 <br>
 

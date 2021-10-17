@@ -5,7 +5,7 @@ lang: en
 description: Looking to hire the best talent around the world.
 ---
 
-We work anywhere in the world, in any time zone. Non-English speakers welcomed.
+We work anywhere in the world, in any time zone. Non-English speakers welcomed. 
 
 ## If you want to create technology that solves problems.
 

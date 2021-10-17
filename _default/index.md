@@ -4,7 +4,6 @@ title: ZopShop Handbook
 lang: en
 description: All Remote Team
 ---
-
 ## All Remote Team
 
 We work anywhere in the world, in any time zone. Non-English speakers welcomed.
