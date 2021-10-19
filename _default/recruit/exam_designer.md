@@ -7,7 +7,7 @@ description: Looking beyond the portfolio.
 
 ## Instructions
 
-1. Design a social media (Facebook, Instagram) ad (high fidelity) for PerfectScore or {{ site.product_name }}.
+1. Design a social media (Facebook, Instagram) ad (high fidelity) for {{ site.product_name }}.
 
 2. Chooose and design a RWD wireframe app from the list below.
 
