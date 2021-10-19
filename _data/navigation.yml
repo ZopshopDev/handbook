@@ -623,12 +623,6 @@ toc:
                 zh-cn: ":oncoming_automobile: 产品研发流程"
                 en: ":oncoming_automobile: Roadmap"
             url: /product/roadmap
-            subsubfolderitems:
-                - page:
-                      zh-tw: 教育科技
-                      zh-cn: 教育科技
-                      en: EdTech
-                  url: /product/edtech
     - title:
           zh-tw: 業務行銷流程
           zh-cn: 业务行销流程

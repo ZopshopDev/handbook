@@ -15,7 +15,7 @@ A. Whether you are a member of our company or not, we encourage you to learn abo
 
 ### 2. What are the company's main products? Where is it positioned?
 
-A. The company currently does not have a so-called main product/main service object. It prefers project-based development. The core concept is "accelerating the incubation of team members’ ideas, discover market needs, and quickly generate solutions." There are currently projects under development. PerfectScore, with software as the main output. It must be emphasized that we are not a contractor, no outsourcing, non-gaming, and non-acceptance nature.
+A. The company currently does not have a so-called main product/main service object. It prefers project-based development. The core concept is "accelerating the incubation of team members’ ideas, discover market needs, and quickly generate solutions." There are currently projects under development. {{ site.product_name }}, with software as the main output. It must be emphasized that we are not a contractor, no outsourcing, non-gaming, and non-acceptance nature.
 
 <br>
 
