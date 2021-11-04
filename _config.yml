@@ -13,7 +13,7 @@ collections:
     output: true
     permalink: /:path
 description: "\u52A0\u901F\u5B75\u5316\u65B0\u5275 Startup "
-exam_submit_form_url: https://forms.gle/LW9UAo2YWpUrgFLq6
+exam_submit_form_url: https://docs.google.com/document/d/15tA1qlVOg14cmpX0DbIPPnUQa9GYlSXcb9haRCojVEU/edit
 exclude:
 - _main/
 - i18n.py
